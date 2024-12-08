@@ -9,6 +9,7 @@
     </div>
   </header>
 </template>
+<script defer src="https://tj.dian.org/script.js" data-website-id="04a4e05f-9a00-4771-9f67-67729b086a52"></script>
 <script setup lang="ts">
 const props = defineProps(['title', 'desc'])
 </script>
